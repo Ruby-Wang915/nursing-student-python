@@ -20,3 +20,12 @@ for i in range(n-1,0,-1):  #(n-1)~1
 #for i in range(3):
     #for j in range(2):
         #print(i, j)
+'''
+   *
+  ***
+ *****
+*******
+ *****
+  ***
+   *
+'''
